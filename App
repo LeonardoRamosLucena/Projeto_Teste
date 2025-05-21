@@ -1,6 +1,0 @@
-alert("Seja bem vindo a festa");
-let nome = prompt ("Me fale seu nome");
-let idade = prompt ("Me Fale sua idade");
-//nesse primeiro comimit vou apenas declarar as variáveis
-
-
